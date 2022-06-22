@@ -1,11 +1,26 @@
 # pdf password cracker
 
-*Brute force PDF files using pikepdf library in Python*
+### A simple python program that crack a password protected pdf file
 
-**Install the required dependencies:**
+[live demo](https://vimeo.com/722973220)
 
-`>_ pip3 install pikepdf tqdm`
+### Required:
 
-*User for learning purpose only!!*
+1. pikedpdf
+2. tqdm
 
-**Created by Ermias Bahru**
+### Install the required dependencies:
+
+`$ pip3 install pikepdf tqdm`
+
+### Usage:
+
+`$ python pdf_cracker.py`
+
+### Screeshot:
+
+<img src="demo.png">
+
+### WARNING:
+
+User for learning purpose only!!
