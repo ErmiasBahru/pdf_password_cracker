@@ -2,7 +2,7 @@
 
 ### A simple python program that crack a password protected pdf file
 
-[live demo](https://vimeo.com/722973220)
+[live demo](https://vimeo.com/723275294)
 
 ### Required:
 
@@ -15,7 +15,11 @@
 
 ### Usage:
 
-`$ python pdf_cracker.py`
+`$ python pdf_cracker.py <PdfFileYouWantToCrack> <Wordlist>`
+
+### Example:
+
+`$ python pdf_cracker.py pdf-with-pass.pdf wordlist.txt`
 
 ### Screeshot:
 
