@@ -11,15 +11,21 @@
 
 ### Install the required dependencies:
 
-`$ pip3 install pikepdf tqdm`
+```
+$ pip3 install pikepdf tqdm
+```
 
 ### Usage:
 
-`$ python pdf_cracker.py <PdfFileYouWantToCrack> <Wordlist>`
+```
+$ python pdf_cracker.py <PdfFileYouWantToCrack> <Wordlist>
+```
 
 ### Example:
 
-`$ python pdf_cracker.py pdf-with-pass.pdf wordlist.txt`
+```
+$ python pdf_cracker.py pdf-with-pass.pdf wordlist.txt
+```
 
 ### Screeshot:
 
