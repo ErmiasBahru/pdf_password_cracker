@@ -2,7 +2,7 @@
 
 ### A simple python program that crack a password protected pdf file
 
-[live demo](https://vimeo.com/723275294)
+[watch demo](https://vimeo.com/723275294)
 
 ### Required:
 
